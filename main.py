@@ -8,7 +8,7 @@ from PIL import Image
 
 # Load the pre-trained model
 # Load the pre-trained model
-model = load_model("my_model_skin_cancer - Copy.h5")
+model = load_model("my_model_skin_cancer.h5")
 
 # Define class labels
 class_labels = [ 'akiec','bcc', 'bkl', 'df','mel', 'nv','vasc']
