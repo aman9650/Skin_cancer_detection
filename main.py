@@ -8,7 +8,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 # Load the trained model
-model = load_model('final_model.h5')
+model = load_model('final_model .h5')
 
 # Define the class labels
 class_labels = ['Actinic keratoses (akiec)', 'Basal cell carcinoma (bcc)', 'Benign keratosis-like lesions (bkl)', 'Dermatofibroma (df)', 'Melanoma (mel)', 'Melanocytic nevi (nv)', 'Melanocytic nevi (nv)']
