@@ -23,7 +23,7 @@ This project aims to create a predictive model using the HAM10000 dataset to cla
 
 By using machine learning techniques and convolutional neural networks (CNNs), the project aims to develop a predictive model capable of accurately classifying skin lesions into these categories. The HAM10000 dataset provides a rich source of data for this purpose, and successful model development could contribute to improved detection and diagnosis of skin cancer and other skin conditions.
 
-You can find the source code in the [GitHub Repository](https://github.com/tdenzl/BuLiAn)
+You can find the source code in the [GitHub Repository](https://github.com/aman9650/Skin_cancer_detection)
 """)
 
 
