@@ -125,7 +125,7 @@ def main():
 
 
     # Upload image in tab 3
-    uploaded_file = tab3.file_uploader('Upload', type=['jpg', 'png'])
+    uploaded_file = tab3.file_uploader('Upload Dermatoscopic image of skin lesions :', type=['jpg', 'png'])
 
     if uploaded_file is not None:
         # Read the uploaded image
