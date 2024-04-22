@@ -64,7 +64,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 
 # Load the trained model
-model = load_model('final_model.h5')
+model = load_model('final_model .h5')
 
 # Define the class labels
 class_labels = ['Actinic keratoses (akiec)', 'Basal cell carcinoma (bcc)', 'Benign keratosis-like lesions (bkl)',
