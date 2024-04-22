@@ -87,37 +87,37 @@ cancer_info = {
     'class_label_1': {
         'name': 'Actinic Keratoses (AKIEC)',
         'info': 'Actinic keratoses (AK), also known as solar keratoses, are rough, scaly patches on the skin caused by excessive sun exposure.',
-        'symptoms': ['1. Rough, scaly patches on the skin', '2. Itching or burning in the affected area', '3. Red or pink coloration']
+        'symptoms': ['Rough, scaly patches on the skin', 'Itching or burning in the affected area', 'Red or pink coloration']
     },
     'class_label_2': {
         'name': 'Basal Cell Carcinoma (BCC)',
         'info': 'Basal cell carcinoma (BCC) is a type of skin cancer that begins in the basal cells of the skin.',
-        'symptoms': ['1. Raised, pink or red, pearly-looking bump', '2. Open sore that oozes or bleeds, then crusts and heals', '3. Scar-like area that is white, yellow, or waxy']
+        'symptoms': ['Raised, pink or red, pearly-looking bump', 'Open sore that oozes or bleeds, then crusts and heals', 'Scar-like area that is white, yellow, or waxy']
     },
     'class_label_3': {
         'name': 'Benign Keratosis-Like Lesions (BKL)',
         'info': 'Benign keratosis-like lesions (BKL) are non-cancerous skin growths that may resemble other skin conditions.',
-        'symptoms': ['1. Irregular, scaly, or crusty patches', '2. Slowly growing or changing growths', '3. Variety of colors including red, pink, brown, or black']
+        'symptoms': ['Irregular, scaly, or crusty patches', 'Slowly growing or changing growths', 'Variety of colors including red, pink, brown, or black']
     },
     'class_label_4': {
         'name': 'Dermatofibroma (DF)',
         'info': 'Dermatofibroma (DF) is a non-cancerous skin growth that often appears as a small, firm bump on the skin.',
-        'symptoms': ['1. Firm, round, pink or brown bump', '2. Dimple-like depression when pinched', '3. Itching or tenderness']
+        'symptoms': ['Firm, round, pink or brown bump', 'Dimple-like depression when pinched', 'Itching or tenderness']
     },
     'class_label_5': {
         'name': 'Melanoma (MEL)',
         'info': 'Melanoma (MEL) is a type of skin cancer that develops from melanocytes, the cells that produce melanin.',
-        'symptoms': ['1. New or changing mole', '2. Irregular borders or uneven color', '3. Itching, bleeding, or crusting']
+        'symptoms': ['New or changing mole', 'Irregular borders or uneven color', 'Itching, bleeding, or crusting']
     },
     'class_label_6': {
         'name': 'Melanocytic Nevi (NV)',
         'info': 'Melanocytic nevi (NV), commonly known as moles, are benign growths on the skin composed of melanocytes.',
-        'symptoms': ['1. Small, round, symmetrical growths', '2. Uniform color (usually brown)', '3. No significant change in appearance over time']
+        'symptoms': ['Small, round, symmetrical growths', 'Uniform color (usually brown)', 'No significant change in appearance over time']
     },
     'class_label_7': {
         'name': 'Vascular Lesions (VASC)',
         'info': 'Vascular lesions (VASC) are abnormalities in the blood vessels that may appear as birthmarks, vascular malformations, or vascular tumors.',
-        'symptoms': ['1. Red or purple discoloration on the skin', '2. Raised or flat lesions', '3. Bleeding or ulceration in severe cases']
+        'symptoms': ['Red or purple discoloration on the skin', 'Raised or flat lesions', 'Bleeding or ulceration in severe cases']
     }
 }
 
