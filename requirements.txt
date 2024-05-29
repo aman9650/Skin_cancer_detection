@@ -1,5 +1,5 @@
 tensorflow==2.15.0
 matplotlib
 opencv-python==4.9.0.80
-
+cv2
 
